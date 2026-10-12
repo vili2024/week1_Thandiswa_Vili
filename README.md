@@ -7,6 +7,13 @@
 
 - [x] PART 1 — Data Understanding (10 Marks) - DONE
 - [x] PART 2 — Data Cleaning (15 Marks) - DONE
+  - Removed 47 duplicate rows across datasets
+  - Checked missing values and handled nulls
+  - Corrected date formats to YYYY-MM-DD
+  - Converted currency fields to numeric (removed currency symbols and text)
+  - Converted all 9 sheets to Excel Tables (Ctrl+T)
+  - Renamed worksheets to proper names
+
 - [ ] PART 3 — Excel Formulas (20 Marks) - NEXT
 - [ ] PART 4 — Lookup Functions (15 Marks)-NEXT
 - [ ] PART 5 — Pivot Tables (20 Marks)

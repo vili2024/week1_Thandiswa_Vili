@@ -6,6 +6,10 @@
 ### Progress: 25/170 Marks Done
 
 - [x] PART 1 — Data Understanding (10 Marks) - DONE
+  - Identified all 9 datasets and their purpose
+  - Listed Primary Keys and Foreign Keys for each table
+  - Mapped relationships between tables
+    
 - [x] PART 2 — Data Cleaning (15 Marks) - DONE
   - Removed 47 duplicate rows across datasets
   - Checked missing values and handled nulls
